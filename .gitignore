@@ -1,0 +1,6 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore temporary C++ source files and executables
+temp.cpp
+temp_executable
